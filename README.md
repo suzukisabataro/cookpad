@@ -24,9 +24,8 @@ https://gyazo.com/c87a3672d551e27c8967f7de983b08cc
     $ git clone https://github.com/suzukisabataro/cookpad.git
 
 ## Author
-
-[@b4b4r07](https://twitter.com/b4b4r07)
+Twitter
+＠F1AxEAdOVvBccbQ
 
 ## License
-
-[MIT](http://b4b4r07.mit-license.org)
+MIT
