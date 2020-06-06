@@ -1,5 +1,6 @@
 # LetsCook
 料理のレシピを投稿・閲覧できるアプリです。
+https://mighty-bayou-39402.herokuapp.com/
 
 ## Description
 ユーザー登録
@@ -20,14 +21,7 @@ https://gyazo.com/c87a3672d551e27c8967f7de983b08cc
 1. user登録後レシピ投稿や編集が可能です。
 
 ## Installation
-
-    $ git clone https://github.com/b4b4r07/awesome-tool
-
-## Anything Else
-
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
+    $ git clone https://github.com/suzukisabataro/cookpad.git
 
 ## Author
 
