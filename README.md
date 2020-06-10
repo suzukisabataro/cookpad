@@ -13,6 +13,28 @@ https://gyazo.com/c87a3672d551e27c8967f7de983b08cc
 - レシピの投稿・編集・閲覧機能
 - ユーザー情報登録・編集機能
 
+## Usersテーブル
+|Column|Type|Options|
+|------|----|-------|
+|nickname|string|null: false|
+|email|string|null: false|
+|password|string|null: false|
+
+### Association
+- has_many :recipess
+
+## recipesテーブル
+|Column|Type|Options|
+|------|----|-------|
+|user_id|intager|null: false|
+|title|string|null: false|
+|body|text|
+|image_id|string|
+
+### Association
+- belongs_to :user
+
+
 ## Requirement
 - ruby '2.5.1'
 - 'rails', '~> 5.2.4'
