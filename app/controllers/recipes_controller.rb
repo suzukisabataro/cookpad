@@ -50,6 +50,11 @@ class RecipesController < ApplicationController
   end
 
   private
+
+  def move_to_index
+    redirect_to action: :index unless user_signed_in?     
+  end
+
   def recipe_params
     params.require(:recipe).permit(:title, :body, :image)
   end
