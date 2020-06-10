@@ -10,6 +10,9 @@ passward:  aaaaaa
 ユーザー登録
 レシピ投稿・閲覧・編集ができます。
 
+## 挑戦してみたこと
+cssのフレームワークbulma-railsを使用
+
 ***DEMO:***
 https://gyazo.com/c87a3672d551e27c8967f7de983b08cc
 
