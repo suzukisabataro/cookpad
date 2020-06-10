@@ -2,6 +2,10 @@
 料理のレシピを投稿・閲覧できるアプリです。
 https://mighty-bayou-39402.herokuapp.com/
 
+##テストアカウント
+email:     a@gmail.com
+passward:  aaaaaa
+
 ## Description
 ユーザー登録
 レシピ投稿・閲覧・編集ができます。
